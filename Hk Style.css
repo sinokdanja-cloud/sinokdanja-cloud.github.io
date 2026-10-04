@@ -1,0 +1,36 @@
+img {
+    width: 300px;
+    border-radius: 15px;
+}
+
+body {
+    font-family: Arial;
+    background: #ffbb01;
+    color: #ffbb01;
+}
+
+p {
+    width: 450px;
+}
+
+a {
+    background: #0038b5;
+    color: #ffffff;
+    padding: 8px 10px;
+    transition: 1s;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    background: #ffbb01;
+    color: aliceblue;
+}
+
+.wrapper {
+    width: 800px;
+    background: #0058ff;
+    padding: 20px 60px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
